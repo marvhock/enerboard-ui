@@ -2,12 +2,12 @@
   <img alt="enerboard" src="https://github.com/marvhock/enerboard-ui/blob/main/src/assets/enerboard.png?raw=true">
 </p>
 
-# EnerBoard UI
+# enerboard UI
 
 This is one of three Repositories for the EnerBoard Prototype
-1. [EnerBoard UI](https://github.com/marvhock/enerboard-ui) - Angular based Frontend.
-2. [EnerBoard Core](https://github.com/marvhock/enerboard-core) - Go bases core API.
-3. [EnerBoard Lib](https://github.com/marvhock/enerboard-lib) - Angular bases Component Library.
+1. [enerboard UI](https://github.com/marvhock/enerboard-ui) - Angular based Frontend.
+2. [enerboard Core](https://github.com/marvhock/enerboard-core) - Go bases core API.
+3. [enerboard Lib](https://github.com/marvhock/enerboard-lib) - Angular bases Component Library.
 
 ## Development server
 
